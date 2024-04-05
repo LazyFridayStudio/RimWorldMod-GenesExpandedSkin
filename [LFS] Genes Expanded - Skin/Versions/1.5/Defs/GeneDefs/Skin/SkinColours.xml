@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <!-- Yellow -->
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Yellowfin</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Yellowfin</label>
+        <labelShortAdj>Yellow</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a yellow color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(243, 240, 143)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_BananaSplit</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Banana Split</label>
+        <labelShortAdj>Yellow</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a yellow color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(254, 228, 131)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_TaxiCab</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Taxi Cab</label>
+        <labelShortAdj>Yellow</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a yellow color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(255, 211, 80)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>2</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+</Defs>
