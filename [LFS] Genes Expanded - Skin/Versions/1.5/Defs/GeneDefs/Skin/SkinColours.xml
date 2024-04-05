@@ -193,7 +193,7 @@
         <skinColorOverride>(192, 129, 184)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>8</displayOrderInCategory>
+        <displayOrderInCategory>9</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -213,7 +213,7 @@
         <skinColorOverride>(135, 33, 117)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>9</displayOrderInCategory>
+        <displayOrderInCategory>10</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -233,7 +233,7 @@
         <skinColorOverride>(146, 39, 143)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>10</displayOrderInCategory>
+        <displayOrderInCategory>11</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -253,7 +253,7 @@
         <skinColorOverride>(82, 35, 127)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>11</displayOrderInCategory>
+        <displayOrderInCategory>12</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -273,7 +273,7 @@
         <skinColorOverride>(54, 43, 112)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>12</displayOrderInCategory>
+        <displayOrderInCategory>13</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -293,7 +293,7 @@
         <skinColorOverride>(113, 112, 178)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>13</displayOrderInCategory>
+        <displayOrderInCategory>14</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -313,7 +313,7 @@
         <skinColorOverride>(58, 53, 120)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>14</displayOrderInCategory>
+        <displayOrderInCategory>15</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -334,7 +334,7 @@
         <skinColorOverride>(243, 148, 190)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>15</displayOrderInCategory>
+        <displayOrderInCategory>16</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -354,7 +354,7 @@
         <skinColorOverride>(236, 6, 141)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>16</displayOrderInCategory>
+        <displayOrderInCategory>17</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -374,7 +374,7 @@
         <skinColorOverride>(212, 32, 43)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>17</displayOrderInCategory>
+        <displayOrderInCategory>18</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -394,7 +394,7 @@
         <skinColorOverride>(201, 1, 108)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>18</displayOrderInCategory>
+        <displayOrderInCategory>19</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -414,7 +414,7 @@
         <skinColorOverride>(239, 49, 37)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>19</displayOrderInCategory>
+        <displayOrderInCategory>20</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -434,7 +434,7 @@
         <skinColorOverride>(230, 25, 56)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>20</displayOrderInCategory>
+        <displayOrderInCategory>21</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -454,7 +454,7 @@
         <skinColorOverride>(194, 44, 29)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>21</displayOrderInCategory>
+        <displayOrderInCategory>22</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -474,7 +474,7 @@
         <skinColorOverride>(198, 8, 80)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>22</displayOrderInCategory>
+        <displayOrderInCategory>23</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -494,7 +494,7 @@
         <skinColorOverride>(152, 1, 46)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>23</displayOrderInCategory>
+        <displayOrderInCategory>24</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -514,7 +514,7 @@
         <skinColorOverride>(140, 12, 3)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>24</displayOrderInCategory>
+        <displayOrderInCategory>25</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -535,7 +535,7 @@
         <skinColorOverride>(140, 12, 3)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>25</displayOrderInCategory>
+        <displayOrderInCategory>26</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -555,7 +555,7 @@
         <skinColorOverride>(178, 183, 187)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>26</displayOrderInCategory>
+        <displayOrderInCategory>27</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -575,7 +575,7 @@
         <skinColorOverride>(140, 155, 148)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>27</displayOrderInCategory>
+        <displayOrderInCategory>28</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -595,7 +595,7 @@
         <skinColorOverride>(148, 155, 161)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>28</displayOrderInCategory>
+        <displayOrderInCategory>29</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -615,7 +615,7 @@
         <skinColorOverride>(194, 183, 177)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>29</displayOrderInCategory>
+        <displayOrderInCategory>30</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -635,7 +635,7 @@
         <skinColorOverride>(95, 96, 98)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>30</displayOrderInCategory>
+        <displayOrderInCategory>31</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -655,7 +655,7 @@
         <skinColorOverride>(128, 163, 183)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>30</displayOrderInCategory>
+        <displayOrderInCategory>32</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -675,7 +675,7 @@
         <skinColorOverride>(106, 116, 125)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>31</displayOrderInCategory>
+        <displayOrderInCategory>33</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -695,7 +695,7 @@
         <skinColorOverride>(69, 86, 96)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>32</displayOrderInCategory>
+        <displayOrderInCategory>34</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -715,7 +715,7 @@
         <skinColorOverride>(44, 44, 44)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>33</displayOrderInCategory>
+        <displayOrderInCategory>35</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -736,7 +736,7 @@
         <skinColorOverride>(197, 150, 12)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>34</displayOrderInCategory>
+        <displayOrderInCategory>36</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -756,7 +756,7 @@
         <skinColorOverride>(241, 179, 16)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>35</displayOrderInCategory>
+        <displayOrderInCategory>37</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -776,7 +776,7 @@
         <skinColorOverride>(200, 140, 18)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>35</displayOrderInCategory>
+        <displayOrderInCategory>38</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -796,7 +796,7 @@
         <skinColorOverride>(246, 128, 38)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>36</displayOrderInCategory>
+        <displayOrderInCategory>39</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -816,7 +816,7 @@
         <skinColorOverride>(174, 112, 11)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>37</displayOrderInCategory>
+        <displayOrderInCategory>40</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -836,7 +836,7 @@
         <skinColorOverride>(207, 171, 121)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>38</displayOrderInCategory>
+        <displayOrderInCategory>41</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -856,7 +856,7 @@
         <skinColorOverride>(145, 109, 0)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>39</displayOrderInCategory>
+        <displayOrderInCategory>42</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -876,7 +876,7 @@
         <skinColorOverride>(222, 122, 28)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>40</displayOrderInCategory>
+        <displayOrderInCategory>43</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -896,7 +896,7 @@
         <skinColorOverride>(153, 72, 9)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>41</displayOrderInCategory>
+        <displayOrderInCategory>44</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -916,7 +916,7 @@
         <skinColorOverride>(169, 76, 15)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>42</displayOrderInCategory>
+        <displayOrderInCategory>45</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -936,7 +936,7 @@
         <skinColorOverride>(67, 26, 22)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>43</displayOrderInCategory>
+        <displayOrderInCategory>46</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -957,7 +957,7 @@
         <skinColorOverride>(182, 219, 165)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>44</displayOrderInCategory>
+        <displayOrderInCategory>47</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -977,7 +977,7 @@
         <skinColorOverride>(142, 198, 65)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>45</displayOrderInCategory>
+        <displayOrderInCategory>48</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -997,7 +997,7 @@
         <skinColorOverride>(55, 124, 43)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>46</displayOrderInCategory>
+        <displayOrderInCategory>49</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1017,7 +1017,7 @@
         <skinColorOverride>(72, 170, 67)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>47</displayOrderInCategory>
+        <displayOrderInCategory>50</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1037,7 +1037,7 @@
         <skinColorOverride>(26, 179, 115)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>48</displayOrderInCategory>
+        <displayOrderInCategory>51</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1057,7 +1057,7 @@
         <skinColorOverride>(0, 101, 59)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>49</displayOrderInCategory>
+        <displayOrderInCategory>52</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1077,7 +1077,7 @@
         <skinColorOverride>(2, 149, 143)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>50</displayOrderInCategory>
+        <displayOrderInCategory>53</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1097,7 +1097,7 @@
         <skinColorOverride>(0, 131, 100)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>51</displayOrderInCategory>
+        <displayOrderInCategory>54</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1117,7 +1117,7 @@
         <skinColorOverride>(1, 87, 62)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>52</displayOrderInCategory>
+        <displayOrderInCategory>55</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1137,7 +1137,7 @@
         <skinColorOverride>(104, 119, 24)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>53</displayOrderInCategory>
+        <displayOrderInCategory>56</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1157,7 +1157,7 @@
         <skinColorOverride>(133, 124, 23)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>54</displayOrderInCategory>
+        <displayOrderInCategory>57</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1177,7 +1177,7 @@
         <skinColorOverride>(91, 84, 3)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>55</displayOrderInCategory>
+        <displayOrderInCategory>58</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1198,7 +1198,7 @@
         <skinColorOverride>(70, 196, 211)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>56</displayOrderInCategory>
+        <displayOrderInCategory>59</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1218,7 +1218,7 @@
         <skinColorOverride>(79, 145, 205)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>57</displayOrderInCategory>
+        <displayOrderInCategory>60</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1238,7 +1238,7 @@
         <skinColorOverride>(1, 178, 149)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>58</displayOrderInCategory>
+        <displayOrderInCategory>61</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1258,7 +1258,7 @@
         <skinColorOverride>(1, 177, 175)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>59</displayOrderInCategory>
+        <displayOrderInCategory>62</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1278,7 +1278,7 @@
         <skinColorOverride>(0, 105, 170)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>60</displayOrderInCategory>
+        <displayOrderInCategory>63</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1298,7 +1298,7 @@
         <skinColorOverride>(19, 72, 140)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>61</displayOrderInCategory>
+        <displayOrderInCategory>64</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1318,7 +1318,7 @@
         <skinColorOverride>(0, 158, 221)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>62</displayOrderInCategory>
+        <displayOrderInCategory>65</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1338,7 +1338,7 @@
         <skinColorOverride>(1, 90, 132)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>63</displayOrderInCategory>
+        <displayOrderInCategory>66</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1358,7 +1358,7 @@
         <skinColorOverride>(1, 181, 204)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>64</displayOrderInCategory>
+        <displayOrderInCategory>67</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1378,7 +1378,7 @@
         <skinColorOverride>(0, 113, 143)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>65</displayOrderInCategory>
+        <displayOrderInCategory>68</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1398,7 +1398,7 @@
         <skinColorOverride>(31, 67, 138)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>66</displayOrderInCategory>
+        <displayOrderInCategory>69</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1418,7 +1418,7 @@
         <skinColorOverride>(1, 104, 179)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>67</displayOrderInCategory>
+        <displayOrderInCategory>70</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1438,7 +1438,7 @@
         <skinColorOverride>(0, 72, 144)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>68</displayOrderInCategory>
+        <displayOrderInCategory>71</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1458,7 +1458,7 @@
         <skinColorOverride>(0, 81, 136)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>69</displayOrderInCategory>
+        <displayOrderInCategory>72</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1478,7 +1478,7 @@
         <skinColorOverride>(0, 74, 101)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>69</displayOrderInCategory>
+        <displayOrderInCategory>73</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
@@ -1498,7 +1498,7 @@
         <skinColorOverride>(1, 85, 129)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
-        <displayOrderInCategory>70</displayOrderInCategory>
+        <displayOrderInCategory>74</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
