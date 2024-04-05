@@ -712,10 +712,231 @@
         <labelShortAdj>Monochromatic</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Black color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
-        <skinColorOverride>(0, 0, 0)</skinColorOverride>
+        <skinColorOverride>(44, 44, 44)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
         <displayOrderInCategory>33</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <!-- Brown -->
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Rattan</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Rattan</label>
+        <labelShortAdj>Brown</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(197, 150, 12)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>34</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_MidasGold</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Midas Gold</label>
+        <labelShortAdj>Brown</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(241, 179, 16)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>35</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_BeesWax</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Bees Wax</label>
+        <labelShortAdj>Brown</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(200, 140, 18)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>35</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Sunset</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Sunset</label>
+        <labelShortAdj>Brown</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(246, 128, 38)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>36</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Teak</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Teak</label>
+        <labelShortAdj>Brown</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(174, 112, 11)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>37</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Almond</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Almond</label>
+        <labelShortAdj>Brown</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(207, 171, 121)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>38</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_DesertSand</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Desert Sand</label>
+        <labelShortAdj>Brown</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(145, 109, 0)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>39</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Copper</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Copper</label>
+        <labelShortAdj>Brown</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(222, 122, 28)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>40</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Brown</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Brown</label>
+        <labelShortAdj>Brown</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(153, 72, 9)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>41</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Chesnut</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Chesnut</label>
+        <labelShortAdj>Brown</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(169, 76, 15)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>42</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Chocolate</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Chocolate</label>
+        <labelShortAdj>Brown</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(67, 26, 22)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>43</displayOrderInCategory>
         <symbolPack>
             <prefixSymbols>
                 <li>
