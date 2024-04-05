@@ -523,4 +523,205 @@
             </prefixSymbols>
         </symbolPack>
     </GeneDef>
+
+    <!-- White and Black -->
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_White</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>White</label>
+        <labelShortAdj>Monochromatic</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a white color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(140, 12, 3)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>25</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_SilverShiner</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Silver Shiner</label>
+        <labelShortAdj>Monochromatic</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(178, 183, 187)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>26</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_GhostGrey</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Ghost Grey</label>
+        <labelShortAdj>Monochromatic</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(140, 155, 148)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>27</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_SilverSmoke</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Silver Smoke</label>
+        <labelShortAdj>Monochromatic</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(148, 155, 161)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>28</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_TinCan</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Tin Can</label>
+        <labelShortAdj>Monochromatic</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(194, 183, 177)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>29</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_SmokeScreen</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Smoke Screen</label>
+        <labelShortAdj>Monochromatic</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(95, 96, 98)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>30</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_ForgedSteel</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Forged Steel</label>
+        <labelShortAdj>Monochromatic</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Grey/Blueish color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(128, 163, 183)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>30</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_IronOre</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Iron Ore</label>
+        <labelShortAdj>Monochromatic</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(106, 116, 125)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>31</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_StormCloud</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Storm Cloud</label>
+        <labelShortAdj>Monochromatic</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(69, 86, 96)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>32</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Black</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Black</label>
+        <labelShortAdj>Monochromatic</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Black color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(0, 0, 0)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>33</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
 </Defs>
