@@ -322,4 +322,205 @@
             </prefixSymbols>
         </symbolPack>
     </GeneDef>
+
+    <!-- Red -->
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Bubblegum</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Bubblegum</label>
+        <labelShortAdj>Purple</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(243, 148, 190)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>15</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Fuchsia</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Fuchsia</label>
+        <labelShortAdj>Red</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(236, 6, 141)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>16</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Rose</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Rose</label>
+        <labelShortAdj>Red</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(212, 32, 43)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>17</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Raspberry</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Raspberry</label>
+        <labelShortAdj>Red</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(201, 1, 108)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>18</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Redfish</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Redfish</label>
+        <labelShortAdj>Red</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(239, 49, 37)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>19</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_FireRed</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Fire Red</label>
+        <labelShortAdj>Red</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(230, 25, 56)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>20</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_MarsRed</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Mars Red</label>
+        <labelShortAdj>Red</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(194, 44, 29)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>21</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Cranberry</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Cranberry</label>
+        <labelShortAdj>Red</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(198, 8, 80)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>22</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Burgundy</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Burgundy</label>
+        <labelShortAdj>Red</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(152, 1, 46)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>23</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneSkinColorOverride">
+        <defName>GES_Skin_Merlot</defName>
+        <displayCategory>GES_SkinColours</displayCategory>
+        <label>Merlot</label>
+        <labelShortAdj>Red</labelShortAdj>
+        <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
+        <randomBrightnessFactor>0.2</randomBrightnessFactor>
+        <skinColorOverride>(140, 12, 3)</skinColorOverride>
+        <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
+
+        <displayOrderInCategory>24</displayOrderInCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li>
+                    <symbol>Skin</symbol>
+                </li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
 </Defs>
