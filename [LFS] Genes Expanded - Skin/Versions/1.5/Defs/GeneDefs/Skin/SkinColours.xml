@@ -532,7 +532,7 @@
         <labelShortAdj>Monochromatic</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a white color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
-        <skinColorOverride>(140, 12, 3)</skinColorOverride>
+        <skinColorOverride>(222, 222, 222)</skinColorOverride>
         <iconPath>UI/Icon/Genes/SkinColor_Icon</iconPath>
 
         <displayOrderInCategory>26</displayOrderInCategory>
