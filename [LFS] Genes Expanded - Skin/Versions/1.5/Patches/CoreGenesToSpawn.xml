@@ -3,7 +3,7 @@
     <Operation Class="PatchOperationSequence">
         <operations>
             <li Class="PatchOperationAdd">
-                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Dirtmole"]/geneGroups </xpath>
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "Dirtmole"]/geneGroups </xpath>
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
@@ -23,7 +23,7 @@
             </li>
 
             <li Class="PatchOperationAdd">
-                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Impid"]/geneGroups </xpath>
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "Impid"]/geneGroups </xpath>
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
@@ -50,7 +50,7 @@
             </li>
 
             <li Class="PatchOperationAdd">
-                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Waster"]/geneGroups </xpath>
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "Waster"]/geneGroups </xpath>
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
@@ -65,7 +65,7 @@
             </li>
 
             <li Class="PatchOperationAdd">
-                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Highmate"]/geneGroups </xpath>
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "Highmate"]/geneGroups </xpath>
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
