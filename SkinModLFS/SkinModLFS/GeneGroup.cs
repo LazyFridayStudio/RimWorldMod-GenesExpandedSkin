@@ -38,6 +38,7 @@ namespace LFSGenesExpandedSkin
 
     public class GeneGroups : Def
     {
+        public bool isXenoGene = false;
         public List<GeneGroup> geneGroups = new List<GeneGroup>();
     }
 }

@@ -47,7 +47,7 @@ namespace LFSGenesExpandedSkin
             {
                 var randomNum = rnd.Next(0, geneGroup.Endogenes.Count);
                 pawn.genes.AddGene(geneGroup.Endogenes[randomNum].geneDef,
-                    false);
+                    possibleEndotypes.isXenoGene);
             }
         }
     }

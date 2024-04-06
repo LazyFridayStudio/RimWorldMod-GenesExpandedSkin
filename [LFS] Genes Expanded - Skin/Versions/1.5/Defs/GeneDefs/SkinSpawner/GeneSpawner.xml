@@ -18,5 +18,6 @@
     <LFSGenesExpandedSkin.GeneGroups>
         <defName>Highmate</defName>
         <geneGroups> </geneGroups>
+        <isXenoGene>true</isXenoGene>
     </LFSGenesExpandedSkin.GeneGroups>
 </Defs>
