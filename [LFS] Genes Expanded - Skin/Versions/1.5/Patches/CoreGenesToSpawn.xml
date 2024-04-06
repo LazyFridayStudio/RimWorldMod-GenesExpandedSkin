@@ -89,6 +89,38 @@
                     </li>
                 </value>
             </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Dirtmole"]/genes/li[text()="Skin_LightGray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Impid"]/genes/li[text()="Skin_PaleYellow"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Impid"]/genes/li[text()="Skin_Orange"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Impid"]/genes/li[text()="Skin_DeepRed"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Waster"]/genes/li[text()="Skin_SlateGray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Highmate"]/genes/li[text()="Skin_SheerWhite"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Highmate"]/genes/li[text()="Skin_Blue"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Highmate"]/genes/li[text()="Skin_Purple"]</xpath>
+            </li>
         </operations>
     </Operation>
 </Patch>
