@@ -15,6 +15,62 @@
             <li>GES_Skin_Black</li>
         </value>
     </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/XenotypeDef[defName="Impid"]/genes</xpath>
+        <value>
+            <li>GES_Skin_Yellowfin</li>
+            <li>GES_Skin_BananaSplit</li>
+            <li>GES_Skin_TaxiCab</li>
+            <li>GES_Skin_GoldFish</li>
+            <li>GES_Skin_BurntOrange</li>
+            <li>GES_Skin_Clay</li>
+            <li>GES_Skin_Tangerine</li>
+            <li>GES_Skin_Bubblegum</li>
+            <li>GES_Skin_Fuchsia</li>
+            <li>GES_Skin_Rose</li>
+            <li>GES_Skin_Raspberry</li>
+            <li>GES_Skin_Redfish</li>
+            <li>GES_Skin_FireRed</li>
+            <li>GES_Skin_MarsRed</li>
+            <li>GES_Skin_Cranberry</li>
+            <li>GES_Skin_Burgundy</li>
+            <li>GES_Skin_Merlot</li>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/XenotypeDef[defName="Waster"]/genes</xpath>
+        <value>
+            <li>GES_Skin_SmokeScreen</li>
+            <li>GES_Skin_ForgedSteel</li>
+            <li>GES_Skin_IronOre</li>
+            <li>GES_Skin_StormCloud</li>
+            <li>GES_Skin_Black</li>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/XenotypeDef[defName="Highmate"]/genes</xpath>
+        <value>
+            <li>GES_Skin_Teal</li>
+            <li>GES_Skin_Denim</li>
+            <li>GES_Skin_CoolMint</li>
+            <li>GES_Skin_IslandLagoon</li>
+            <li>GES_Skin_Bluegill</li>
+            <li>GES_Skin_BlueSuede</li>
+            <li>GES_Skin_SummerSky</li>
+            <li>GES_Skin_TidalPool</li>
+            <li>GES_Skin_MauiSurf</li>
+            <li>GES_Skin_CoolAzul</li>
+            <li>GES_Skin_RegalBlue</li>
+            <li>GES_Skin_WildBlueberry</li>
+            <li>GES_Skin_BlueMarlin</li>
+            <li>GES_Skin_Gulfstream</li>
+            <li>GES_Skin_DeepSea</li>
+            <li>GES_Skin_White</li>
+        </value>
+    </Operation>
 </Patch>
 
 <!-- 
