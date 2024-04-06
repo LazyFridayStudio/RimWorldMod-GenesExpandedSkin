@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "Dirtmole"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
+                            <GES_Skin_White>1</GES_Skin_White>
+                            <GES_Skin_SilverShiner>1</GES_Skin_SilverShiner>
+                            <GES_Skin_GhostGrey>1</GES_Skin_GhostGrey>
+                            <GES_Skin_SilverSmoke>1</GES_Skin_SilverSmoke>
+                            <GES_Skin_TinCan>1</GES_Skin_TinCan>
+                            <GES_Skin_SmokeScreen>1</GES_Skin_SmokeScreen>
+                            <GES_Skin_ForgedSteel>1</GES_Skin_ForgedSteel>
+                            <GES_Skin_IronOre>1</GES_Skin_IronOre>
+                            <GES_Skin_StormCloud>1</GES_Skin_StormCloud>
+                            <GES_Skin_Black>1</GES_Skin_Black>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "Impid"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
+                            <GES_Skin_Yellowfin>1</GES_Skin_Yellowfin>
+                            <GES_Skin_BananaSplit>1</GES_Skin_BananaSplit>
+                            <GES_Skin_TaxiCab>1</GES_Skin_TaxiCab>
+                            <GES_Skin_GoldFish>1</GES_Skin_GoldFish>
+                            <GES_Skin_BurntOrange>1</GES_Skin_BurntOrange>
+                            <GES_Skin_Clay>1</GES_Skin_Clay>
+                            <GES_Skin_Tangerine>1</GES_Skin_Tangerine>
+                            <GES_Skin_Bubblegum>1</GES_Skin_Bubblegum>
+                            <GES_Skin_Fuchsia>1</GES_Skin_Fuchsia>
+                            <GES_Skin_Rose>1</GES_Skin_Rose>
+                            <GES_Skin_Raspberry>1</GES_Skin_Raspberry>
+                            <GES_Skin_Redfish>1</GES_Skin_Redfish>
+                            <GES_Skin_FireRed>1</GES_Skin_FireRed>
+                            <GES_Skin_MarsRed>1</GES_Skin_MarsRed>
+                            <GES_Skin_Cranberry>1</GES_Skin_Cranberry>
+                            <GES_Skin_Burgundy>1</GES_Skin_Burgundy>
+                            <GES_Skin_Merlot>1</GES_Skin_Merlot>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "Waster"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
+                            <GES_Skin_SmokeScreen>1</GES_Skin_SmokeScreen>
+                            <GES_Skin_ForgedSteel>1</GES_Skin_ForgedSteel>
+                            <GES_Skin_IronOre>1</GES_Skin_IronOre>
+                            <GES_Skin_StormCloud>1</GES_Skin_StormCloud>
+                            <GES_Skin_Black>1</GES_Skin_Black>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "Highmate"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
+                            <GES_Skin_Teal>1</GES_Skin_Teal>
+                            <GES_Skin_Denim>1</GES_Skin_Denim>
+                            <GES_Skin_CoolMint>1</GES_Skin_CoolMint>
+                            <GES_Skin_IslandLagoon>1</GES_Skin_IslandLagoon>
+                            <GES_Skin_Bluegill>1</GES_Skin_Bluegill>
+                            <GES_Skin_BlueSuede>1</GES_Skin_BlueSuede>
+                            <GES_Skin_SummerSky>1</GES_Skin_SummerSky>
+                            <GES_Skin_TidalPool>1</GES_Skin_TidalPool>
+                            <GES_Skin_MauiSurf>1</GES_Skin_MauiSurf>
+                            <GES_Skin_CoolAzul>1</GES_Skin_CoolAzul>
+                            <GES_Skin_RegalBlue>1</GES_Skin_RegalBlue>
+                            <GES_Skin_WildBlueberry>1</GES_Skin_WildBlueberry>
+                            <GES_Skin_BlueMarlin>1</GES_Skin_BlueMarlin>
+                            <GES_Skin_Gulfstream>1</GES_Skin_Gulfstream>
+                            <GES_Skin_DeepSea>1</GES_Skin_DeepSea>
+                            <GES_Skin_White>1</GES_Skin_White>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
