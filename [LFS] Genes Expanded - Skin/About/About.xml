@@ -7,7 +7,7 @@
         <li>1.4</li>
         <li>1.5</li>
     </supportedVersions>
-    <packageId>LazyFridayStudio.GenesXepandedSkin</packageId>
+    <packageId>LazyFridayStudio.GenesExpandedSkin</packageId>
     <modDependencies>
         <li>
             <packageId>Ludeon.RimWorld</packageId>
@@ -21,25 +21,7 @@
     <loadAfter>
         <li>Ludeon.RimWorld</li>
         <li>Ludeon.RimWorld.Biotech</li>
-        <li>brrainz.harmony</li>
         <li>lazyfridaystudio.xenosexpanded</li>
         <li>lazyfridaystudio.nightShademercenarys</li>
-        <li>Nals.FacialAnimation</li>
-        <li>filox.xenotype</li>
-        <li>LimeTreeSnake.Xenotech</li>
-        <li>Turnovus.Biotech.IntegratedXenotypes</li>
-        <li>vanillaracesexpanded.android</li>
-        <li>vanillaracesexpanded.archon</li>
-        <li>vanillaracesexpanded.fungoid</li>
-        <li>vanillaracesexpanded.Phytokin</li>
-        <li>vanillaracesexpanded.pigskin</li>
-        <li>vanillaracesexpanded.lycanthrope</li>
-        <li>vanillaracesexpanded.saurid</li>
-        <li>vanillaracesexpanded.highmate</li>
-        <li>vanillaracesexpanded.sanguophage</li>
-        <li>det.boglegs</li>
-        <li>det.stoneborn</li>
-        <li>det.venators</li>
-        <li>Sov.ElseudPathf</li>
     </loadAfter>
 </ModMetaData>

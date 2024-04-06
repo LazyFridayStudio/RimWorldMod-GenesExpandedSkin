@@ -1,46 +1,8 @@
 <loadFolders>
     <v1.4>
         <li>Versions/1.4</li>
-        <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
-        <li IfModActive="lazyfridaystudio.nightShademercenarys">Compatibility/LFSNightShadeMercenaries</li>
-        <li IfModActive="Nals.FacialAnimation">Compatibility/FacialAnimation</li>
-        <li IfModActive="filox.xenotype">Compatibility/FiloxXenoType/</li>
-        <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
-        <li IfModActive="Turnovus.Biotech.IntegratedXenotypes">Compatibility/IntegratedXenos</li>
-        <li IfModActive="vanillaracesexpanded.android">Compatibility/VREandroid</li>
-        <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREarchon</li>
-        <li IfModActive="vanillaracesexpanded.fungoid">Compatibility/VREfungoid</li>
-        <li IfModActive="vanillaracesexpanded.Phytokin">Compatibility/VREPhytokin</li>
-        <li IfModActive="vanillaracesexpanded.pigskin">Compatibility/VREPigSkin</li>
-        <li IfModActive="vanillaracesexpanded.lycanthrope">Compatibility/VRElycanthrope</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
-        <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
-        <li IfModActive="vanillaracesexpanded.sanguophage">Compatibility/VRESanguophage</li>
-        <li IfModActive="det.boglegs">Compatibility/DetBoglegs</li>
-        <li IfModActive="det.stoneborn">Compatibility/DetStoneborn</li>
-        <li IfModActive="det.venators">Compatibility/DetVenators</li>
-        <li IfModActive="Sov.ElseudPathf">Compatibility/Nephilim</li>
     </v1.4>
     <v1.5>
         <li>Versions/1.5</li>
-        <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
-        <li IfModActive="lazyfridaystudio.nightShademercenarys">Compatibility/LFSNightShadeMercenaries</li>
-        <li IfModActive="Nals.FacialAnimation">Compatibility/FacialAnimation</li>
-        <li IfModActive="filox.xenotype">Compatibility/FiloxXenoType/</li>
-        <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
-        <li IfModActive="Turnovus.Biotech.IntegratedXenotypes">Compatibility/IntegratedXenos</li>
-        <li IfModActive="vanillaracesexpanded.android">Compatibility/VREandroid</li>
-        <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREarchon</li>
-        <li IfModActive="vanillaracesexpanded.fungoid">Compatibility/VREfungoid</li>
-        <li IfModActive="vanillaracesexpanded.Phytokin">Compatibility/VREPhytokin</li>
-        <li IfModActive="vanillaracesexpanded.pigskin">Compatibility/VREPigSkin</li>
-        <li IfModActive="vanillaracesexpanded.lycanthrope">Compatibility/VRElycanthrope</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
-        <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
-        <li IfModActive="vanillaracesexpanded.sanguophage">Compatibility/VRESanguophage</li>
-        <li IfModActive="det.boglegs">Compatibility/DetBoglegs</li>
-        <li IfModActive="det.stoneborn">Compatibility/DetStoneborn</li>
-        <li IfModActive="det.venators">Compatibility/DetVenators</li>
-        <li IfModActive="Sov.ElseudPathf">Compatibility/Nephilim</li>
     </v1.5>
 </loadFolders>
