@@ -1,0 +1,4 @@
+A:\Git Repos\RimWorldMod-MoreSkinsColours\SkinModLFS\SkinModLFS\obj\Debug\SkinModLFS.csproj.AssemblyReference.cache
+A:\Git Repos\RimWorldMod-MoreSkinsColours\SkinModLFS\SkinModLFS\obj\Debug\SkinModLFS.csproj.CoreCompileInputs.cache
+A:\Git Repos\RimWorldMod-MoreSkinsColours\[LFS] Genes Expanded - Skin\Versions\1.5\Assemblies\SkinModLFS.dll
+A:\Git Repos\RimWorldMod-MoreSkinsColours\SkinModLFS\SkinModLFS\obj\Debug\SkinModLFS.dll
