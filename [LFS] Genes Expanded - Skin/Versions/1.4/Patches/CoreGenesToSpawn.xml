@@ -13,7 +13,6 @@
                             <GES_Skin_SilverSmoke>1</GES_Skin_SilverSmoke>
                             <GES_Skin_TinCan>1</GES_Skin_TinCan>
                             <GES_Skin_SmokeScreen>1</GES_Skin_SmokeScreen>
-                            <GES_Skin_ForgedSteel>1</GES_Skin_ForgedSteel>
                             <GES_Skin_IronOre>1</GES_Skin_IronOre>
                             <GES_Skin_StormCloud>1</GES_Skin_StormCloud>
                             <GES_Skin_Black>1</GES_Skin_Black>
@@ -55,7 +54,6 @@
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
                             <GES_Skin_SmokeScreen>1</GES_Skin_SmokeScreen>
-                            <GES_Skin_ForgedSteel>1</GES_Skin_ForgedSteel>
                             <GES_Skin_IronOre>1</GES_Skin_IronOre>
                             <GES_Skin_StormCloud>1</GES_Skin_StormCloud>
                             <GES_Skin_Black>1</GES_Skin_Black>
@@ -88,6 +86,38 @@
                         </Endogenes>
                     </li>
                 </value>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Dirtmole"]/genes/li[text()="Skin_LightGray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Impid"]/genes/li[text()="Skin_PaleYellow"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Impid"]/genes/li[text()="Skin_Orange"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Impid"]/genes/li[text()="Skin_DeepRed"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Waster"]/genes/li[text()="Skin_SlateGray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Highmate"]/genes/li[text()="Skin_SheerWhite"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Highmate"]/genes/li[text()="Skin_Blue"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Highmate"]/genes/li[text()="Skin_Purple"]</xpath>
             </li>
         </operations>
     </Operation>

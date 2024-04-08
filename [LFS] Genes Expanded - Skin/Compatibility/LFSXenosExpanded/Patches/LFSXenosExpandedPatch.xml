@@ -169,31 +169,13 @@
                 <value>
                     <li>
                         <Endogenes>
-                            <GES_Skin_GoldFish>1</GES_Skin_GoldFish>
-                            <GES_Skin_BurntOrange>1</GES_Skin_BurntOrange>
-                            <GES_Skin_Clay>1</GES_Skin_Clay>
-                            <GES_Skin_Tangerine>1</GES_Skin_Tangerine>
-                            <GES_Skin_Bubblegum>1</GES_Skin_Bubblegum>
-                            <GES_Skin_Fuchsia>1</GES_Skin_Fuchsia>
-                            <GES_Skin_Rose>1</GES_Skin_Rose>
-                            <GES_Skin_Raspberry>1</GES_Skin_Raspberry>
-                            <GES_Skin_Redfish>1</GES_Skin_Redfish>
-                            <GES_Skin_FireRed>1</GES_Skin_FireRed>
-                            <GES_Skin_MarsRed>1</GES_Skin_MarsRed>
-                            <GES_Skin_Cranberry>1</GES_Skin_Cranberry>
-                            <GES_Skin_Burgundy>1</GES_Skin_Burgundy>
-                            <GES_Skin_Merlot>1</GES_Skin_Merlot>
-                            <GES_Skin_Rattan>1</GES_Skin_Rattan>
-                            <GES_Skin_MidasGold>1</GES_Skin_MidasGold>
-                            <GES_Skin_BeesWax>1</GES_Skin_BeesWax>
-                            <GES_Skin_Sunset>1</GES_Skin_Sunset>
-                            <GES_Skin_Teak>1</GES_Skin_Teak>
-                            <GES_Skin_Almond>1</GES_Skin_Almond>
-                            <GES_Skin_DesertSand>1</GES_Skin_DesertSand>
-                            <GES_Skin_Copper>1</GES_Skin_Copper>
-                            <GES_Skin_Brown>1</GES_Skin_Brown>
-                            <GES_Skin_Chesnut>1</GES_Skin_Chesnut>
-                            <GES_Skin_Chocolate>1</GES_Skin_Chocolate>
+                            <GES_Skin_White>1</GES_Skin_White>
+                            <GES_Skin_SilverShiner>1</GES_Skin_SilverShiner>
+                            <GES_Skin_GhostGrey>1</GES_Skin_GhostGrey>
+                            <GES_Skin_SilverSmoke>1</GES_Skin_SilverSmoke>
+                            <GES_Skin_TinCan>1</GES_Skin_TinCan>
+                            <GES_Skin_IronOre>1</GES_Skin_IronOre>
+                            <GES_Skin_StormCloud>1</GES_Skin_StormCloud>
                         </Endogenes>
                     </li>
                 </value>
@@ -225,6 +207,42 @@
                         </Endogenes>
                     </li>
                 </value>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Xeno_Dhucoih"]/genes/li[text()="Skin_Purple"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Xeno_Dhucoih"]/genes/li[text()="Skin_Blue"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Xeno_Trugnoth"]/genes/li[text()="Skin_Green"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Xeno_Zukran"]/genes/li[text()="Skin_InkBlack"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Xeno_Zukran"]/genes/li[text()="Skin_PaleRed"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Xeno_Zukran"]/genes/li[text()="Skin_DeepRed"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Xeno_Enphor"]/genes/li[text()="Skin_SlateGray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Xeno_Ceds"]/genes/li[text()="Skin_SheerWhite"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Xeno_Momhoh"]/genes/li[text()="Skin_PaleYellow"]</xpath>
             </li>
 
         </operations>
