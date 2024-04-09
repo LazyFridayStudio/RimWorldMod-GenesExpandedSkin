@@ -29,5 +29,6 @@
         <li>Ludeon.RimWorld</li>
         <li>Ludeon.RimWorld.Biotech</li>
         <li>lazyfridaystudio.xenosexpanded</li>
+        <li>vanillaracesexpanded.archon</li>
     </loadAfter>
 </ModMetaData>

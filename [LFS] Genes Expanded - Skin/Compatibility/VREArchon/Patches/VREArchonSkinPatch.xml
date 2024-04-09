@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="VRE_Archon"]/genes/li[text()="Skin_PaleYellow"]</xpath>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "VRE_Archon"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <GES_Skin_Yellowfin>1</GES_Skin_Yellowfin>
+                            <GES_Skin_BananaSplit>1</GES_Skin_BananaSplit>
+                            <GES_Skin_TaxiCab>1</GES_Skin_TaxiCab>
+                            <GES_Skin_Teak>1</GES_Skin_Teak>
+                            <GES_Skin_MidasGold>1</GES_Skin_MidasGold>
+                            <GES_Skin_BeesWax>1</GES_Skin_BeesWax>
+                            <GES_Skin_DesertSand>1</GES_Skin_DesertSand>
+                            <GES_Skin_Rattan>1</GES_Skin_Rattan>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
