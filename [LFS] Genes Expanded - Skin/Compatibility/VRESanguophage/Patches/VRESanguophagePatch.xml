@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="VRE_Ekkimian"]/genes/li[text()="Skin_LightGray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="VRE_Ekkimian"]/genes/li[text()="Skin_SlateGray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="VRE_Bruxa"]/genes/li[text()="Skin_SheerWhite"]</xpath>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "VRE_Ekkimian"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <GES_Skin_White>1</GES_Skin_White>
+                            <GES_Skin_SilverShiner>1</GES_Skin_SilverShiner>
+                            <GES_Skin_TinCan>1</GES_Skin_TinCan>
+                            <GES_Skin_SilverSmoke>1</GES_Skin_SilverSmoke>
+                            <Skin_LightGray>1</Skin_LightGray>
+                            <Skin_SlateGray>1</Skin_SlateGray>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "VRE_Bruxa"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <GES_Skin_White>1</GES_Skin_White>
+                            <GES_Skin_SilverShiner>1</GES_Skin_SilverShiner>
+                            <GES_Skin_TinCan>1</GES_Skin_TinCan>
+                            <GES_Skin_SilverSmoke>1</GES_Skin_SilverSmoke>
+                            <Skin_SheerWhite>1</Skin_SheerWhite>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <LFSGenesExpandedSkin.GeneGroups>
+        <defName>VRE_Strigoi</defName>
+        <geneGroups> </geneGroups>
+        <isXenoGene>true</isXenoGene>
+    </LFSGenesExpandedSkin.GeneGroups>
+
+    <LFSGenesExpandedSkin.GeneGroups>
+        <defName>VRE_Ekkimian</defName>
+        <geneGroups> </geneGroups>
+        <isXenoGene>true</isXenoGene>
+    </LFSGenesExpandedSkin.GeneGroups>
+
+    <LFSGenesExpandedSkin.GeneGroups>
+        <defName>VRE_Bruxa</defName>
+        <geneGroups> </geneGroups>
+        <isXenoGene>true</isXenoGene>
+    </LFSGenesExpandedSkin.GeneGroups>
+</Defs>
