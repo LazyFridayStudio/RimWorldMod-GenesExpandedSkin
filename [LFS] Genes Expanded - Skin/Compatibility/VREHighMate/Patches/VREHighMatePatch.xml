@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="VRE_Lowmate"]/genes/li[text()="Skin_SheerWhite"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="VRE_Lowmate"]/genes/li[text()="Skin_LightGray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "VRE_Lowmate"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Skin_SheerWhite>1</Skin_SheerWhite>
+                            <Skin_LightGray>1</Skin_LightGray>
+                            <GES_Skin_White>1</GES_Skin_White>
+                            <GES_Skin_SilverShiner>1</GES_Skin_SilverShiner>
+                            <GES_Skin_TinCan>1</GES_Skin_TinCan>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
