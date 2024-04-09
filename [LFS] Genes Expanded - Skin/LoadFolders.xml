@@ -4,11 +4,13 @@
         <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
         <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREarchon</li>
         <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
+        <li IfModActive="vanillaracesexpanded.hussar">Compatibility/VREHussar</li>
     </v1.4>
     <v1.5>
         <li>Versions/1.5</li>
         <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
         <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREarchon</li>
         <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
+        <li IfModActive="vanillaracesexpanded.hussar">Compatibility/VREHussar</li>
     </v1.5>
 </loadFolders>

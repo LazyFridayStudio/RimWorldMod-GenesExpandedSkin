@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="VREH_Uhlan"]/genes/li[text()="Skin_DeepRed"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="VREH_Uhlan"]/genes/li[text()="Skin_PaleRed"]</xpath>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "VREH_Uhlan"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <GES_Skin_FireRed>1</GES_Skin_FireRed>
+                            <GES_Skin_Merlot>1</GES_Skin_Merlot>
+                            <GES_Skin_Burgundy>1</GES_Skin_Burgundy>
+                            <GES_Skin_MarsRed>1</GES_Skin_MarsRed>
+                            <GES_Skin_Redfish>1</GES_Skin_Redfish>
+                            <GES_Skin_Rose>1</GES_Skin_Rose>
+                            <Skin_DeepRed>1</Skin_DeepRed>
+                            <Skin_PaleRed>1</Skin_PaleRed>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
