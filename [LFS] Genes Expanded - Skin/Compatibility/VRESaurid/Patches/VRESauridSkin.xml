@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="VRESaurids_Saurid"]/genes/li[text()="Skin_Blue"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="VRESaurids_Saurid"]/genes/li[text()="Skin_Green"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="VRESaurids_Saurid"]/genes/li[text()="Skin_LightGray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "VRESaurids_Saurid"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Skin_LightGray>1</Skin_LightGray>
+                            <Skin_Green>1</Skin_Green>
+                            <Skin_Blue>1</Skin_Blue>
+                            <GES_Skin_Kiwi>1</GES_Skin_Kiwi>
+                            <GES_Skin_PeaSoup>1</GES_Skin_PeaSoup>
+                            <GES_Skin_Sage>1</GES_Skin_Sage>
+                            <GES_Skin_Guacamole>1</GES_Skin_Guacamole>
+                            <GES_Skin_Teal>1</GES_Skin_Teal>
+                            <GES_Skin_Denim>1</GES_Skin_Denim>
+                            <GES_Skin_CoolMint>1</GES_Skin_CoolMint>
+                            <GES_Skin_IslandLagoon>1</GES_Skin_IslandLagoon>
+                            <GES_Skin_BlueSuede>1</GES_Skin_BlueSuede>
+                            <GES_Skin_TidalPool>1</GES_Skin_TidalPool>
+                            <GES_Skin_White>1</GES_Skin_White>
+                            <GES_Skin_SilverShiner>1</GES_Skin_SilverShiner>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
