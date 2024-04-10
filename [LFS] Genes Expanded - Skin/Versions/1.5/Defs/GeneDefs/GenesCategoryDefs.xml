@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Defs>
-    <GeneCategoryDef>
-        <defName>GES_SkinColours</defName>
-        <label>Cosmetic - Skin</label>
-        <displayPriorityInXenotype>-19077</displayPriorityInXenotype>
-        <displayPriorityInGenepack>-136</displayPriorityInGenepack>
-    </GeneCategoryDef>
-</Defs>

@@ -3,7 +3,7 @@
     <!-- Yellow -->
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Yellowfin</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Yellowfin</label>
         <labelShortAdj>Yellow</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a yellow color.</description>
@@ -23,7 +23,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_BananaSplit</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Banana Split</label>
         <labelShortAdj>Yellow</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a yellow color.</description>
@@ -43,7 +43,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_TaxiCab</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Taxi Cab</label>
         <labelShortAdj>Yellow</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a yellow color.</description>
@@ -64,7 +64,7 @@
     <!-- Orange -->
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_GoldFish</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Gold Fish</label>
         <labelShortAdj>Orange</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a orange color.</description>
@@ -84,7 +84,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_BurntOrange</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Burnt Orange</label>
         <labelShortAdj>Orange</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a orange color.</description>
@@ -104,7 +104,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Clay</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Clay</label>
         <labelShortAdj>Orange</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a orange color.</description>
@@ -124,7 +124,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Tangerine</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Tangerine</label>
         <labelShortAdj>Orange</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a orange color.</description>
@@ -145,7 +145,7 @@
     <!-- Purple -->
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_PaleLavender</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Pale Lavender</label>
         <labelShortAdj>Purple</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
@@ -165,7 +165,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Lilac</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Lilac</label>
         <labelShortAdj>Purple</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
@@ -185,7 +185,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Orchid</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Orchid</label>
         <labelShortAdj>Purple</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
@@ -205,7 +205,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Plum</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Plum</label>
         <labelShortAdj>Purple</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
@@ -225,7 +225,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Violet</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Violet</label>
         <labelShortAdj>Purple</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
@@ -245,7 +245,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Grape</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Grape</label>
         <labelShortAdj>Purple</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
@@ -265,7 +265,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Purple</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Purple</label>
         <labelShortAdj>Purple</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
@@ -285,7 +285,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Amethyst</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Amethyst</label>
         <labelShortAdj>Purple</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
@@ -305,7 +305,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_PurpleHeart</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>PurpleHeart</label>
         <labelShortAdj>Purple</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
@@ -326,7 +326,7 @@
     <!-- Red -->
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Bubblegum</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Bubblegum</label>
         <labelShortAdj>Purple</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
@@ -346,7 +346,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Fuchsia</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Fuchsia</label>
         <labelShortAdj>Red</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
@@ -366,7 +366,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Rose</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Rose</label>
         <labelShortAdj>Red</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
@@ -386,7 +386,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Raspberry</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Raspberry</label>
         <labelShortAdj>Red</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
@@ -406,7 +406,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Redfish</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Redfish</label>
         <labelShortAdj>Red</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
@@ -426,7 +426,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_FireRed</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Fire Red</label>
         <labelShortAdj>Red</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
@@ -446,7 +446,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_MarsRed</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Mars Red</label>
         <labelShortAdj>Red</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
@@ -466,7 +466,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Cranberry</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Cranberry</label>
         <labelShortAdj>Red</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
@@ -486,7 +486,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Burgundy</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Burgundy</label>
         <labelShortAdj>Red</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
@@ -506,7 +506,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Merlot</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Merlot</label>
         <labelShortAdj>Red</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
@@ -527,7 +527,7 @@
     <!-- White and Black -->
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_White</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>White</label>
         <labelShortAdj>Monochromatic</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a white color.</description>
@@ -547,7 +547,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_SilverShiner</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Silver Shiner</label>
         <labelShortAdj>Monochromatic</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
@@ -567,7 +567,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_GhostGrey</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Ghost Grey</label>
         <labelShortAdj>Monochromatic</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
@@ -587,7 +587,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_SilverSmoke</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Silver Smoke</label>
         <labelShortAdj>Monochromatic</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
@@ -607,7 +607,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_TinCan</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Tin Can</label>
         <labelShortAdj>Monochromatic</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
@@ -627,7 +627,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_SmokeScreen</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Smoke Screen</label>
         <labelShortAdj>Monochromatic</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
@@ -647,7 +647,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_ForgedSteel</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Forged Steel</label>
         <labelShortAdj>Monochromatic</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey/Blueish color.</description>
@@ -667,7 +667,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_IronOre</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Iron Ore</label>
         <labelShortAdj>Monochromatic</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
@@ -687,7 +687,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_StormCloud</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Storm Cloud</label>
         <labelShortAdj>Monochromatic</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
@@ -707,7 +707,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Black</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Black</label>
         <labelShortAdj>Monochromatic</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Black color.</description>
@@ -728,7 +728,7 @@
     <!-- Brown -->
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Rattan</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Rattan</label>
         <labelShortAdj>Brown</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
@@ -748,7 +748,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_MidasGold</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Midas Gold</label>
         <labelShortAdj>Brown</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
@@ -768,7 +768,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_BeesWax</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Bees Wax</label>
         <labelShortAdj>Brown</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
@@ -788,7 +788,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Sunset</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Sunset</label>
         <labelShortAdj>Brown</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
@@ -808,7 +808,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Teak</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Teak</label>
         <labelShortAdj>Brown</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
@@ -828,7 +828,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Almond</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Almond</label>
         <labelShortAdj>Brown</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
@@ -848,7 +848,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_DesertSand</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Desert Sand</label>
         <labelShortAdj>Brown</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
@@ -868,7 +868,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Copper</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Copper</label>
         <labelShortAdj>Brown</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
@@ -888,7 +888,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Brown</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Brown</label>
         <labelShortAdj>Brown</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
@@ -908,7 +908,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Chesnut</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Chesnut</label>
         <labelShortAdj>Brown</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
@@ -928,7 +928,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Chocolate</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Chocolate</label>
         <labelShortAdj>Brown</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
@@ -949,7 +949,7 @@
     <!-- Green -->
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Kiwi</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Kiwi</label>
         <labelShortAdj>Green</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
@@ -969,7 +969,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_PeaSoup</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Pea Soup</label>
         <labelShortAdj>Green</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
@@ -989,7 +989,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Sage</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Sage</label>
         <labelShortAdj>Green</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
@@ -1009,7 +1009,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Guacamole</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Guacamole</label>
         <labelShortAdj>Green</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
@@ -1029,7 +1029,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Rainforest</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Rainforest</label>
         <labelShortAdj>Green</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
@@ -1049,7 +1049,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_OakLeaf</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>OakLeaf</label>
         <labelShortAdj>Green</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
@@ -1069,7 +1069,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Jade</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Jade</label>
         <labelShortAdj>Green</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
@@ -1089,7 +1089,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Fern</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Fern</label>
         <labelShortAdj>Green</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
@@ -1109,7 +1109,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Evergreen</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Evergreen</label>
         <labelShortAdj>Green</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
@@ -1129,7 +1129,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Olive</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Olive</label>
         <labelShortAdj>Green</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
@@ -1149,7 +1149,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_DesertCamo</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Desert Camo</label>
         <labelShortAdj>Green</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
@@ -1169,7 +1169,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Taupe</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Taupe</label>
         <labelShortAdj>Green</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
@@ -1190,7 +1190,7 @@
     <!-- Blue -->
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Teal</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Teal</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1210,7 +1210,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Denim</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Denim</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1230,7 +1230,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_CoolMint</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Cool Mint</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1250,7 +1250,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_IslandLagoon</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Island Lagoon</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1270,7 +1270,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Bluegill</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Bluegill</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1290,7 +1290,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_BlueSuede</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Blue Suede</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1310,7 +1310,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_SummerSky</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Summer Sky</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1330,7 +1330,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_TidalPool</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Tidal Pool</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1350,7 +1350,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_MauiSurf</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Maui Surf</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1370,7 +1370,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_CoolAzul</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Cool Azul</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1390,7 +1390,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_RegalBlue</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Regal Blue</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1410,7 +1410,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_WildBlueberry</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Wild Blueberry</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1430,7 +1430,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Cobalt</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Cobalt</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1450,7 +1450,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_BlueMarlin</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Blue Marlin</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1470,7 +1470,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Gulfstream</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Gulfstream</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
@@ -1490,7 +1490,7 @@
 
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_DeepSea</defName>
-        <displayCategory>GES_SkinColours</displayCategory>
+        <displayCategory>Cosmetic_Skin</displayCategory>
         <label>Deep Sea</label>
         <labelShortAdj>Blue</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
