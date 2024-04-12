@@ -64,17 +64,11 @@
                             <GES_Skin_BananaSplit>1</GES_Skin_BananaSplit>
                             <GES_Skin_TaxiCab>1</GES_Skin_TaxiCab>
                             <GES_Skin_GoldFish>1</GES_Skin_GoldFish>
-                            <GES_Skin_BurntOrange>1</GES_Skin_BurntOrange>
-                            <GES_Skin_Clay>1</GES_Skin_Clay>
                             <GES_Skin_Tangerine>1</GES_Skin_Tangerine>
-                            <GES_Skin_Bubblegum>1</GES_Skin_Bubblegum>
-                            <GES_Skin_Fuchsia>1</GES_Skin_Fuchsia>
                             <GES_Skin_Rose>1</GES_Skin_Rose>
-                            <GES_Skin_Raspberry>1</GES_Skin_Raspberry>
                             <GES_Skin_Redfish>1</GES_Skin_Redfish>
                             <GES_Skin_FireRed>1</GES_Skin_FireRed>
                             <GES_Skin_MarsRed>1</GES_Skin_MarsRed>
-                            <GES_Skin_Cranberry>1</GES_Skin_Cranberry>
                             <GES_Skin_Burgundy>1</GES_Skin_Burgundy>
                             <GES_Skin_Merlot>1</GES_Skin_Merlot>
                             <Skin_PaleYellow>1</Skin_PaleYellow>
@@ -107,20 +101,19 @@
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
                             <GES_Skin_Teal>1</GES_Skin_Teal>
                             <GES_Skin_Denim>1</GES_Skin_Denim>
-                            <GES_Skin_CoolMint>1</GES_Skin_CoolMint>
-                            <GES_Skin_IslandLagoon>1</GES_Skin_IslandLagoon>
                             <GES_Skin_Bluegill>1</GES_Skin_Bluegill>
                             <GES_Skin_BlueSuede>1</GES_Skin_BlueSuede>
                             <GES_Skin_SummerSky>1</GES_Skin_SummerSky>
                             <GES_Skin_TidalPool>1</GES_Skin_TidalPool>
                             <GES_Skin_MauiSurf>1</GES_Skin_MauiSurf>
-                            <GES_Skin_CoolAzul>1</GES_Skin_CoolAzul>
                             <GES_Skin_RegalBlue>1</GES_Skin_RegalBlue>
                             <GES_Skin_WildBlueberry>1</GES_Skin_WildBlueberry>
                             <GES_Skin_BlueMarlin>1</GES_Skin_BlueMarlin>
-                            <GES_Skin_Gulfstream>1</GES_Skin_Gulfstream>
-                            <GES_Skin_DeepSea>1</GES_Skin_DeepSea>
+                            <GES_Skin_Plum>1</GES_Skin_Plum>
+                            <GES_Skin_Violet>1</GES_Skin_Violet>
                             <GES_Skin_White>1</GES_Skin_White>
+                            <GES_Skin_Grape>1</GES_Skin_Grape>
+                            <GES_Skin_Purple>1</GES_Skin_Purple>
                             <Skin_SheerWhite>1</Skin_SheerWhite>
                             <Skin_Blue>1</Skin_Blue>
                             <Skin_Purple>1</Skin_Purple>
