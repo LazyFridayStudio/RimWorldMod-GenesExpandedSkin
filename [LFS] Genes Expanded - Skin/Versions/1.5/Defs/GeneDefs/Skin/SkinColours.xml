@@ -4,8 +4,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Yellowfin</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Yellowfin</label>
-        <labelShortAdj>Yellow</labelShortAdj>
+        <label>Yellowfin Skin</label>
+        <labelShortAdj>Yellow Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a yellow color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(243, 240, 143)</skinColorOverride>
@@ -24,8 +24,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_BananaSplit</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Banana Split</label>
-        <labelShortAdj>Yellow</labelShortAdj>
+        <label>Banana Split Skin</label>
+        <labelShortAdj>Yellow Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a yellow color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(254, 228, 131)</skinColorOverride>
@@ -44,8 +44,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_TaxiCab</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Taxi Cab</label>
-        <labelShortAdj>Yellow</labelShortAdj>
+        <label>Taxi Cab Skin</label>
+        <labelShortAdj>Yellow Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a yellow color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(255, 211, 80)</skinColorOverride>
@@ -65,8 +65,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_GoldFish</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Gold Fish</label>
-        <labelShortAdj>Orange</labelShortAdj>
+        <label>Gold Fish Skin</label>
+        <labelShortAdj>Orange Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a orange color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(248, 152, 29)</skinColorOverride>
@@ -85,8 +85,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_BurntOrange</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Burnt Orange</label>
-        <labelShortAdj>Orange</labelShortAdj>
+        <label>Burnt Orange Skin</label>
+        <labelShortAdj>Orange Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a orange color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(208, 112, 28)</skinColorOverride>
@@ -105,8 +105,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Clay</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Clay</label>
-        <labelShortAdj>Orange</labelShortAdj>
+        <label>Clay Skin</label>
+        <labelShortAdj>Orange Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a orange color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(229, 113, 30)</skinColorOverride>
@@ -125,8 +125,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Tangerine</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Tangerine</label>
-        <labelShortAdj>Orange</labelShortAdj>
+        <label>Tangerine Skin</label>
+        <labelShortAdj>Orange Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a orange color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(245, 116, 33)</skinColorOverride>
@@ -146,8 +146,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_PaleLavender</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Pale Lavender</label>
-        <labelShortAdj>Purple</labelShortAdj>
+        <label>Pale Lavender Skin</label>
+        <labelShortAdj>Purple Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(227, 203, 225)</skinColorOverride>
@@ -166,8 +166,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Lilac</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Lilac</label>
-        <labelShortAdj>Purple</labelShortAdj>
+        <label>Lilac Skin</label>
+        <labelShortAdj>Purple Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(153, 108, 165)</skinColorOverride>
@@ -186,8 +186,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Orchid</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Orchid</label>
-        <labelShortAdj>Purple</labelShortAdj>
+        <label>Orchid Skin</label>
+        <labelShortAdj>Purple Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(192, 129, 184)</skinColorOverride>
@@ -206,8 +206,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Plum</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Plum</label>
-        <labelShortAdj>Purple</labelShortAdj>
+        <label>Plum Skin</label>
+        <labelShortAdj>Purple Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(135, 33, 117)</skinColorOverride>
@@ -226,8 +226,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Violet</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Violet</label>
-        <labelShortAdj>Purple</labelShortAdj>
+        <label>Violet Skin</label>
+        <labelShortAdj>Purple Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(146, 39, 143)</skinColorOverride>
@@ -246,8 +246,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Grape</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Grape</label>
-        <labelShortAdj>Purple</labelShortAdj>
+        <label>Grape Skin</label>
+        <labelShortAdj>Purple Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(82, 35, 127)</skinColorOverride>
@@ -266,8 +266,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Purple</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Purple</label>
-        <labelShortAdj>Purple</labelShortAdj>
+        <label>Purple Skin</label>
+        <labelShortAdj>Purple Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(54, 43, 112)</skinColorOverride>
@@ -286,8 +286,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Amethyst</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Amethyst</label>
-        <labelShortAdj>Purple</labelShortAdj>
+        <label>Amethyst Skin</label>
+        <labelShortAdj>Purple Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(113, 112, 178)</skinColorOverride>
@@ -306,8 +306,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_PurpleHeart</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>PurpleHeart</label>
-        <labelShortAdj>Purple</labelShortAdj>
+        <label>PurpleHeart Skin</label>
+        <labelShortAdj>Purple Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Purple color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(58, 53, 120)</skinColorOverride>
@@ -327,8 +327,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Bubblegum</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Bubblegum</label>
-        <labelShortAdj>Purple</labelShortAdj>
+        <label>Bubblegum Skin</label>
+        <labelShortAdj>Purple Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(243, 148, 190)</skinColorOverride>
@@ -347,8 +347,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Fuchsia</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Fuchsia</label>
-        <labelShortAdj>Red</labelShortAdj>
+        <label>Fuchsia Skin</label>
+        <labelShortAdj>Red Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(236, 6, 141)</skinColorOverride>
@@ -367,8 +367,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Rose</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Rose</label>
-        <labelShortAdj>Red</labelShortAdj>
+        <label>Rose Skin</label>
+        <labelShortAdj>Red Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(212, 32, 43)</skinColorOverride>
@@ -387,8 +387,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Raspberry</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Raspberry</label>
-        <labelShortAdj>Red</labelShortAdj>
+        <label>Raspberry Skin</label>
+        <labelShortAdj>Red Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(201, 1, 108)</skinColorOverride>
@@ -407,8 +407,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Redfish</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Redfish</label>
-        <labelShortAdj>Red</labelShortAdj>
+        <label>Redfish Skin</label>
+        <labelShortAdj>Red Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(239, 49, 37)</skinColorOverride>
@@ -427,8 +427,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_FireRed</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Fire Red</label>
-        <labelShortAdj>Red</labelShortAdj>
+        <label>Fire Red Skin</label>
+        <labelShortAdj>Red Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(230, 25, 56)</skinColorOverride>
@@ -447,8 +447,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_MarsRed</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Mars Red</label>
-        <labelShortAdj>Red</labelShortAdj>
+        <label>Mars Red Skin</label>
+        <labelShortAdj>Red Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(194, 44, 29)</skinColorOverride>
@@ -467,8 +467,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Cranberry</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Cranberry</label>
-        <labelShortAdj>Red</labelShortAdj>
+        <label>Cranberry Skin</label>
+        <labelShortAdj>Red Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(198, 8, 80)</skinColorOverride>
@@ -487,8 +487,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Burgundy</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Burgundy</label>
-        <labelShortAdj>Red</labelShortAdj>
+        <label>Burgundy Skin</label>
+        <labelShortAdj>Red Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(152, 1, 46)</skinColorOverride>
@@ -507,8 +507,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Merlot</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Merlot</label>
-        <labelShortAdj>Red</labelShortAdj>
+        <label>Merlot Skin</label>
+        <labelShortAdj>Red Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Red color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(140, 12, 3)</skinColorOverride>
@@ -528,8 +528,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_White</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>White</label>
-        <labelShortAdj>Monochromatic</labelShortAdj>
+        <label>White Skin</label>
+        <labelShortAdj>Monochromatic Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a white color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(222, 222, 222)</skinColorOverride>
@@ -548,8 +548,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_SilverShiner</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Silver Shiner</label>
-        <labelShortAdj>Monochromatic</labelShortAdj>
+        <label>Silver Shiner Skin</label>
+        <labelShortAdj>Monochromatic Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(178, 183, 187)</skinColorOverride>
@@ -568,8 +568,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_GhostGrey</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Ghost Grey</label>
-        <labelShortAdj>Monochromatic</labelShortAdj>
+        <label>Ghost Grey Skin</label>
+        <labelShortAdj>Monochromatic Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(140, 155, 148)</skinColorOverride>
@@ -588,8 +588,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_SilverSmoke</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Silver Smoke</label>
-        <labelShortAdj>Monochromatic</labelShortAdj>
+        <label>Silver Smoke Skin</label>
+        <labelShortAdj>Monochromatic Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(148, 155, 161)</skinColorOverride>
@@ -608,8 +608,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_TinCan</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Tin Can</label>
-        <labelShortAdj>Monochromatic</labelShortAdj>
+        <label>Tin Can Skin</label>
+        <labelShortAdj>Monochromatic Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(194, 183, 177)</skinColorOverride>
@@ -628,8 +628,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_SmokeScreen</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Smoke Screen</label>
-        <labelShortAdj>Monochromatic</labelShortAdj>
+        <label>Smoke Screen Skin</label>
+        <labelShortAdj>Monochromatic Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(95, 96, 98)</skinColorOverride>
@@ -648,8 +648,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_ForgedSteel</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Forged Steel</label>
-        <labelShortAdj>Monochromatic</labelShortAdj>
+        <label>Forged Steel Skin</label>
+        <labelShortAdj>Monochromatic Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey/Blueish color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(128, 163, 183)</skinColorOverride>
@@ -668,8 +668,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_IronOre</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Iron Ore</label>
-        <labelShortAdj>Monochromatic</labelShortAdj>
+        <label>Iron Ore Skin</label>
+        <labelShortAdj>Monochromatic Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(106, 116, 125)</skinColorOverride>
@@ -688,8 +688,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_StormCloud</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Storm Cloud</label>
-        <labelShortAdj>Monochromatic</labelShortAdj>
+        <label>Storm Cloud Skin</label>
+        <labelShortAdj>Monochromatic Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Grey color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(69, 86, 96)</skinColorOverride>
@@ -708,8 +708,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Black</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Black</label>
-        <labelShortAdj>Monochromatic</labelShortAdj>
+        <label>Black Skin</label>
+        <labelShortAdj>Monochromatic Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Black color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(44, 44, 44)</skinColorOverride>
@@ -729,8 +729,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Rattan</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Rattan</label>
-        <labelShortAdj>Brown</labelShortAdj>
+        <label>Rattan Skin</label>
+        <labelShortAdj>Brown Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(197, 150, 12)</skinColorOverride>
@@ -749,8 +749,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_MidasGold</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Midas Gold</label>
-        <labelShortAdj>Brown</labelShortAdj>
+        <label>Midas Gold Skin</label>
+        <labelShortAdj>Brown Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(241, 179, 16)</skinColorOverride>
@@ -769,8 +769,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_BeesWax</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Bees Wax</label>
-        <labelShortAdj>Brown</labelShortAdj>
+        <label>Bees Wax Skin</label>
+        <labelShortAdj>Brown Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(200, 140, 18)</skinColorOverride>
@@ -789,8 +789,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Sunset</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Sunset</label>
-        <labelShortAdj>Brown</labelShortAdj>
+        <label>Sunset Skin</label>
+        <labelShortAdj>Brown Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(246, 128, 38)</skinColorOverride>
@@ -809,8 +809,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Teak</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Teak</label>
-        <labelShortAdj>Brown</labelShortAdj>
+        <label>Teak Skin</label>
+        <labelShortAdj>Brown Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(174, 112, 11)</skinColorOverride>
@@ -829,8 +829,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Almond</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Almond</label>
-        <labelShortAdj>Brown</labelShortAdj>
+        <label>Almond Skin</label>
+        <labelShortAdj>Brown Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(207, 171, 121)</skinColorOverride>
@@ -849,8 +849,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_DesertSand</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Desert Sand</label>
-        <labelShortAdj>Brown</labelShortAdj>
+        <label>Desert Sand Skin</label>
+        <labelShortAdj>Brown Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(145, 109, 0)</skinColorOverride>
@@ -869,8 +869,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Copper</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Copper</label>
-        <labelShortAdj>Brown</labelShortAdj>
+        <label>Copper Skin</label>
+        <labelShortAdj>Brown Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(222, 122, 28)</skinColorOverride>
@@ -889,8 +889,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Brown</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Brown</label>
-        <labelShortAdj>Brown</labelShortAdj>
+        <label>Brown Skin</label>
+        <labelShortAdj>Brown Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(153, 72, 9)</skinColorOverride>
@@ -909,8 +909,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Chesnut</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Chesnut</label>
-        <labelShortAdj>Brown</labelShortAdj>
+        <label>Chesnut Skin</label>
+        <labelShortAdj>Brown Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(169, 76, 15)</skinColorOverride>
@@ -929,8 +929,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Chocolate</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Chocolate</label>
-        <labelShortAdj>Brown</labelShortAdj>
+        <label>Chocolate Skin</label>
+        <labelShortAdj>Brown Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a Brown color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(67, 26, 22)</skinColorOverride>
@@ -950,8 +950,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Kiwi</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Kiwi</label>
-        <labelShortAdj>Green</labelShortAdj>
+        <label>Kiwi Skin</label>
+        <labelShortAdj>Green Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(182, 219, 165)</skinColorOverride>
@@ -970,8 +970,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_PeaSoup</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Pea Soup</label>
-        <labelShortAdj>Green</labelShortAdj>
+        <label>Pea Soup Skin</label>
+        <labelShortAdj>Green Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(142, 198, 65)</skinColorOverride>
@@ -990,8 +990,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Sage</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Sage</label>
-        <labelShortAdj>Green</labelShortAdj>
+        <label>Sage Skin</label>
+        <labelShortAdj>Green Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(55, 124, 43)</skinColorOverride>
@@ -1010,8 +1010,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Guacamole</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Guacamole</label>
-        <labelShortAdj>Green</labelShortAdj>
+        <label>Guacamole Skin</label>
+        <labelShortAdj>Green Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(72, 170, 67)</skinColorOverride>
@@ -1030,8 +1030,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Rainforest</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Rainforest</label>
-        <labelShortAdj>Green</labelShortAdj>
+        <label>Rainforest Skin</label>
+        <labelShortAdj>Green Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(26, 179, 115)</skinColorOverride>
@@ -1050,8 +1050,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_OakLeaf</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>OakLeaf</label>
-        <labelShortAdj>Green</labelShortAdj>
+        <label>OakLeaf Skin</label>
+        <labelShortAdj>Green Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(0, 101, 59)</skinColorOverride>
@@ -1070,8 +1070,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Jade</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Jade</label>
-        <labelShortAdj>Green</labelShortAdj>
+        <label>Jade Skin</label>
+        <labelShortAdj>Green Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(2, 149, 143)</skinColorOverride>
@@ -1090,8 +1090,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Fern</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Fern</label>
-        <labelShortAdj>Green</labelShortAdj>
+        <label>Fern Skin</label>
+        <labelShortAdj>Green Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(0, 131, 100)</skinColorOverride>
@@ -1110,8 +1110,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Evergreen</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Evergreen</label>
-        <labelShortAdj>Green</labelShortAdj>
+        <label>Evergreen Skin</label>
+        <labelShortAdj>Green Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(1, 87, 62)</skinColorOverride>
@@ -1130,8 +1130,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Olive</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Olive</label>
-        <labelShortAdj>Green</labelShortAdj>
+        <label>Olive Skin</label>
+        <labelShortAdj>Green Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(104, 119, 24)</skinColorOverride>
@@ -1150,8 +1150,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_DesertCamo</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Desert Camo</label>
-        <labelShortAdj>Green</labelShortAdj>
+        <label>Desert Camo Skin</label>
+        <labelShortAdj>Green Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(133, 124, 23)</skinColorOverride>
@@ -1170,8 +1170,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Taupe</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Taupe</label>
-        <labelShortAdj>Green</labelShortAdj>
+        <label>Taupe Skin</label>
+        <labelShortAdj>Green Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a green color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(91, 84, 3)</skinColorOverride>
@@ -1191,8 +1191,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Teal</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Teal</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Teal Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(70, 196, 211)</skinColorOverride>
@@ -1211,8 +1211,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Denim</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Denim</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Denim Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(79, 145, 205)</skinColorOverride>
@@ -1231,8 +1231,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_CoolMint</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Cool Mint</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Cool Mint Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(1, 178, 149)</skinColorOverride>
@@ -1251,8 +1251,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_IslandLagoon</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Island Lagoon</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Island Lagoon Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(1, 177, 175)</skinColorOverride>
@@ -1271,8 +1271,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Bluegill</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Bluegill</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Bluegill Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(0, 105, 170)</skinColorOverride>
@@ -1291,8 +1291,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_BlueSuede</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Blue Suede</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Blue Suede Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(19, 72, 140)</skinColorOverride>
@@ -1311,8 +1311,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_SummerSky</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Summer Sky</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Summer Sky Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(0, 158, 221)</skinColorOverride>
@@ -1331,8 +1331,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_TidalPool</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Tidal Pool</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Tidal Pool Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(1, 90, 132)</skinColorOverride>
@@ -1351,8 +1351,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_MauiSurf</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Maui Surf</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Maui Surf Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(1, 181, 204)</skinColorOverride>
@@ -1371,8 +1371,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_CoolAzul</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Cool Azul</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Cool Azul Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(0, 113, 143)</skinColorOverride>
@@ -1391,8 +1391,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_RegalBlue</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Regal Blue</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Regal Blue Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(31, 67, 138)</skinColorOverride>
@@ -1411,8 +1411,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_WildBlueberry</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Wild Blueberry</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Wild Blueberry Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(1, 104, 179)</skinColorOverride>
@@ -1431,8 +1431,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Cobalt</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Cobalt</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Cobalt Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(0, 72, 144)</skinColorOverride>
@@ -1451,8 +1451,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_BlueMarlin</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Blue Marlin</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Blue Marlin Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(0, 81, 136)</skinColorOverride>
@@ -1471,8 +1471,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_Gulfstream</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Gulfstream</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Gulfstream Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(0, 74, 101)</skinColorOverride>
@@ -1491,8 +1491,8 @@
     <GeneDef ParentName="GeneSkinColorOverride">
         <defName>GES_Skin_DeepSea</defName>
         <displayCategory>Cosmetic_Skin</displayCategory>
-        <label>Deep Sea</label>
-        <labelShortAdj>Blue</labelShortAdj>
+        <label>Deep Sea Skin</label>
+        <labelShortAdj>Blue Skin</labelShortAdj>
         <description>Carriers of this gene produce a pigment that gives their skin a blue color.</description>
         <randomBrightnessFactor>0.2</randomBrightnessFactor>
         <skinColorOverride>(1, 85, 129)</skinColorOverride>
