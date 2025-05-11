@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="RS_Charmweaver"]/genes/li[text()="Skin_Blue"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="RS_Charmweaver"]/genes/li[text()="Skin_Purple"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="RS_Charmweaver"]/genes/li[text()="Skin_PaleRed"]</xpath>
+
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="RS_Charmweaver"]/genes/li[text()="RS_Skin_PaleGreen"]</xpath>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "RS_Charmweaver"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <GES_Skin_PaleLavender>1</GES_Skin_PaleLavender>
+                            <GES_Skin_Lilac>1</GES_Skin_Lilac>
+                            <GES_Skin_Orchid>1</GES_Skin_Orchid>
+                            <GES_Skin_Bubblegum>1</GES_Skin_Bubblegum>
+                            <GES_Skin_Rainforest>1</GES_Skin_Rainforest>
+                            <GES_Skin_Jade>1</GES_Skin_Jade>
+                            <GES_Skin_GoldFish>1</GES_Skin_GoldFish>
+                            <GES_Skin_BananaSplit>1</GES_Skin_BananaSplit>
+                            <GES_Skin_Teal>1</GES_Skin_Teal>
+                            <GES_Skin_MauiSurf>1</GES_Skin_MauiSurf>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
