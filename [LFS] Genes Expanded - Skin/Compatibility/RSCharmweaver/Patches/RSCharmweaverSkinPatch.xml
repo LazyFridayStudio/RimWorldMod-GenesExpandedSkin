@@ -12,7 +12,6 @@
 
             <li Class="PatchOperationRemove">
                 <xpath>/Defs/XenotypeDef[defName="RS_Charmweaver"]/genes/li[text()="Skin_PaleRed"]</xpath>
-
             </li>
 
             <li Class="PatchOperationRemove">
