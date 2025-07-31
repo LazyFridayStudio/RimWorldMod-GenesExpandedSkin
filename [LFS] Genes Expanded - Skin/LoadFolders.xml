@@ -2,7 +2,7 @@
     <v1.4>
         <li>Versions/1.4</li>
         <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
-        <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREarchon</li>
+        <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREArchon</li>
         <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
         <li IfModActive="vanillaracesexpanded.hussar">Compatibility/VREHussar</li>
         <li IfModActive="vanillaracesexpanded.sanguophage">Compatibility/VRESanguophage</li>
@@ -12,11 +12,21 @@
     <v1.5>
         <li>Versions/1.5</li>
         <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
-        <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREarchon</li>
+        <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREArchon</li>
         <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
         <li IfModActive="vanillaracesexpanded.hussar">Compatibility/VREHussar</li>
         <li IfModActive="vanillaracesexpanded.sanguophage">Compatibility/VRESanguophage</li>
         <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
         <li IfModActive="ReSplice.XOTR.Charmweavers">Compatibility/RSCharmweaver</li>
     </v1.5>
+    <v1.6>
+        <li>Versions/1.6</li>
+        <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
+        <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREArchon</li>
+        <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
+        <li IfModActive="vanillaracesexpanded.hussar">Compatibility/VREHussar</li>
+        <li IfModActive="vanillaracesexpanded.sanguophage">Compatibility/VRESanguophage</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
+        <li IfModActive="ReSplice.XOTR.Charmweavers">Compatibility/RSCharmweaver</li>
+    </v1.6>
 </loadFolders>
