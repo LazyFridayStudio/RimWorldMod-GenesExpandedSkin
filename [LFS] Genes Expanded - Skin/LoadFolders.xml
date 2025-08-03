@@ -28,5 +28,6 @@
         <li IfModActive="vanillaracesexpanded.sanguophage">Compatibility/VRESanguophage</li>
         <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
         <li IfModActive="ReSplice.XOTR.Charmweavers">Compatibility/RSCharmweaver</li>
+        <li IfModActive="Ludeon.RimWorld.Odyssey">Compatibility/RimworldStarJack/</li>
     </v1.6>
 </loadFolders>
