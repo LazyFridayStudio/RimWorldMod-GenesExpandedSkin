@@ -30,4 +30,15 @@
         <li IfModActive="ReSplice.XOTR.Charmweavers">Compatibility/RSCharmweaver</li>
         <li IfModActive="Ludeon.RimWorld.Odyssey">Compatibility/RimworldStarJack/</li>
     </v1.6>
+    <v1.7>
+        <li>Versions/1.7</li>
+        <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
+        <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREArchon</li>
+        <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
+        <li IfModActive="vanillaracesexpanded.hussar">Compatibility/VREHussar</li>
+        <li IfModActive="vanillaracesexpanded.sanguophage">Compatibility/VRESanguophage</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
+        <li IfModActive="ReSplice.XOTR.Charmweavers">Compatibility/RSCharmweaver</li>
+        <li IfModActive="Ludeon.RimWorld.Odyssey">Compatibility/RimworldStarJack/</li>
+    </v1.7>
 </loadFolders>
