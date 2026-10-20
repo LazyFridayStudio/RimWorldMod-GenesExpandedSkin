@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>[LFS] Genes Expanded - Skin</name>
+    <name>[LFS] Genes Expanded - Skin Colors</name>
     <author>Lazy Friday Studio</author>
-    <description>Adds in a varity of new skins colours</description>
+    <description>Adds in a varity of new skins colors</description>
     <supportedVersions>
         <li>1.4</li>
         <li>1.5</li>
+        <li>1.6</li>
     </supportedVersions>
     <packageId>LazyFridayStudio.GenesExpandedSkin</packageId>
     <modDependencies>
@@ -31,11 +32,13 @@
         <li>Ludeon.RimWorld.Royalty</li>
         <li>Ludeon.RimWorld.Biotech</li>
         <li>Ludeon.RimWorld.Anomaly</li>
+        <li>Ludeon.RimWorld.Odyssey</li>
         <li>lazyfridaystudio.xenosexpanded</li>
         <li>vanillaracesexpanded.archon</li>
         <li>vanillaracesexpanded.highmate</li>
         <li>vanillaracesexpanded.hussar</li>
         <li>vanillaracesexpanded.sanguophage</li>
         <li>vanillaracesexpanded.saurid</li>
+        <li>ReSplice.XOTR.Charmweavers</li>
     </loadAfter>
 </ModMetaData>
